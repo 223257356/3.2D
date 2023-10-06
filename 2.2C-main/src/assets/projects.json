@@ -1,0 +1,43 @@
+
+  [
+    {
+    "id": 1,
+    "title": "Lost in Space Game",
+    "description": "Implemented a live mini map to accurately scale and position the game entities (player and power-ups) based on their position within the game space."
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "To be updated."
+  },
+  {
+    "id": 3,
+    "title": "Project 3",
+    "description": "To be updated."
+  },
+  {
+    "id": 4,
+    "title": "Project 4",
+    "description": "To be updated."
+  },
+  {
+    "id": 5,
+    "title": "Project 5",
+    "description": "To be updated."
+  },
+  {
+    "id": 6,
+    "title": "Project 6",
+    "description": "To be updated."
+  },
+  {
+    "id": 7,
+    "title": "Project 7",
+    "description": "To be updated."
+  },
+  {
+    "id": 8,
+    "title": "Project 8",
+    "description": "To be updated."
+  }
+]
